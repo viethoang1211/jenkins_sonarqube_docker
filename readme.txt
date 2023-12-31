@@ -4,7 +4,7 @@
 
 Listrace is a bootstrap 3 framework based html5/css3 directory listing template.It will help developers to rapidly built a directory website
 
-
+ 
 Template Info:
 -----------------------
 Name: 		Listrace - free directory template
